@@ -1,0 +1,16 @@
+#define IDD_MAIN_DIALOG         101
+#define IDC_WIDTH_EDIT          1001
+#define IDC_HEIGHT_EDIT         1002
+#define IDC_APPLY_BUTTON        1003
+#define IDC_MAX_QUALITY_BUTTON  1004
+#define IDC_IMAGE               1005
+#define IDD_FIRSTRUN_DIALOG     102
+#define IDC_YES_BUTTON          1006
+#define IDC_NO_BUTTON           1007
+#define IDC_STATIC              -1
+#define IDC_FIRSTRUN_TEXT       1008
+#define IDC_INSTRUCTIONS        1009
+#define IDC_CREDIT              1010
+#define IDD_EXPANSIONS_DIALOG   103
+#define IDC_EXPANSIONS_TEXT     1011
+#define IDC_HYPERLINK           1012
